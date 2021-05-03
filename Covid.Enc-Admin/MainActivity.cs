@@ -7,7 +7,7 @@ using System;
 
 namespace Covid.Enc_Admin
 {
-   
+   //Codigo
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
